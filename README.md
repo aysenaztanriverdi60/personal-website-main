@@ -1,2 +1,4 @@
-# personal-website-main
-personal-website-main
+# personal-website
+
+HTML, CSS ve JS kullanarak basit bir Kişisel Web Sitesi
+
